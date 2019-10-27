@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "16010a25b80710e1c3a4d5269d5855065c3333cf23b80e7364d27746bf92f31c"
+            "sha256": "2ddf5e871f5a9821a7519e8515179ebf3472007c04feb8f87c0fa567f068062c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -99,6 +99,14 @@
             ],
             "index": "pypi",
             "version": "==2.21.0"
+        },
+        "secure-smtplib": {
+            "hashes": [
+                "sha256:3d4903f6612626ccd9b77ef05313cb3c3952a59a4d756cda2377b272fabad8b9",
+                "sha256:645ea0a341f306fa3307c8fe1169765c417ff363db9946fa69f3669a9b718069"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
         },
         "six": {
             "hashes": [

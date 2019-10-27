@@ -12,6 +12,7 @@ requests = "==2.21.0"
 tqdm = "==4.31.1"
 django = "*"
 gunicorn = "*"
+secure-smtplib = "*"
 
 [requires]
 python_version = "3.7"
